@@ -3,8 +3,7 @@
 This guide provides step-by-step instructions for AI modeling of churn.
 
 ## View the Notebook
-[![View Notebook](https://img.shields.io/badge/launch-notebook-blue.svg)](https://github.com/LaVarEdwards/survival-churn-analysis
-/blob/main/survival-churn-analysis.ipynb)
+[![View Notebook](https://img.shields.io/badge/launch-notebook-blue.svg)](https://github.com/LaVarEdwards/survival-churn-analysis/blob/main/survival-churn-analysis.ipynb)
 
 ## Prerequisites
 
