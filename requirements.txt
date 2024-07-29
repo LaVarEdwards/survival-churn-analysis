@@ -1,0 +1,10 @@
+jupyter
+lifelines
+matplotlib
+numpy
+pandas
+pycox
+seaborn
+scikit-learn
+scikit-survival
+statsmodels
